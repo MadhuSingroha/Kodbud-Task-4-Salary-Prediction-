@@ -1,4 +1,4 @@
-# Salary Prediction Model - README
+# Salary Prediction Model
 
 ## Project Overview
 
